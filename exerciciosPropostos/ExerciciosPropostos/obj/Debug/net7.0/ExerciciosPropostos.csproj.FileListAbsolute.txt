@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net7.0\ExerciciosPropostos.exe
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net7.0\ExerciciosPropostos.deps.json
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net7.0\ExerciciosPropostos.runtimeconfig.json
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net7.0\ExerciciosPropostos.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net7.0\ExerciciosPropostos.pdb
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.AssemblyInfo.cs
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\refint\ExerciciosPropostos.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.pdb
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ExerciciosPropostos.genruntimeconfig.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net7.0\ref\ExerciciosPropostos.dll

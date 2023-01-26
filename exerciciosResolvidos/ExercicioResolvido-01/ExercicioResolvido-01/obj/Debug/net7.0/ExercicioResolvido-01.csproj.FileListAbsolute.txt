@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\bin\Debug\net7.0\ExercicioResolvido-01.exe
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\bin\Debug\net7.0\ExercicioResolvido-01.deps.json
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\bin\Debug\net7.0\ExercicioResolvido-01.runtimeconfig.json
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\bin\Debug\net7.0\ExercicioResolvido-01.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\bin\Debug\net7.0\ExercicioResolvido-01.pdb
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.AssemblyInfo.cs
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\refint\ExercicioResolvido-01.dll
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.pdb
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ExercicioResolvido-01.genruntimeconfig.cache
+C:\Users\vitor\Desktop\2023-estudos\logica-de-programacao\ExercicioResolvido-01\ExercicioResolvido-01\obj\Debug\net7.0\ref\ExercicioResolvido-01.dll
